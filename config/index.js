@@ -31,7 +31,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oE5UL64ClUbOPKsTmmfUTFtNzO8w",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "7dGjii61-PRCj9pJv_6c-mpffLslN6ItX-fJTyBr414",
+      useTemplateId: "qBYuOX-QKyBVDHSwbgpPoE3L0PScxfY-ocFTceNhGzI",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://www.xzw.com/fortune/Gemini/"
     }, 
@@ -101,9 +101,9 @@ export const config = {
     // 在一起的日子
     {"keyword": "love_day", date: "2022-07-12"},
     // 退伍日, 不用可以删掉
-    {"keyword": "ex_day", date: "2022-08-31"},
+    {"keyword": "birthday1", date: "2023-06-02"},
     // sakana日
-    // {"keyword": "sakana_day", date: "2022-01-06"},
+    {"keyword": "birthday2", date: "2022-05-23"},
     // ... 
   ],
 
