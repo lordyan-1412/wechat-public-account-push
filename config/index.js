@@ -37,7 +37,7 @@ export const config = {
     }, 
     {
       name: "老婆1", 
-      id: "ohxOO6VskYv20Kuf-ywIZVR3MpuXhk",
+      id: "oE5UL69BDF_BdUf0Lz3GkjbtLdIM",
       useTemplateId: "48b7KnM7Vuf8wO-o6H3rijlsDMzK5Ct2Jxmujv3tbAI",
       openUrl: "https://www.xzw.com/fortune/Gemini/"
     }, 
