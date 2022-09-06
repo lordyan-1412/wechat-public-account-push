@@ -31,14 +31,14 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oE5UL64ClUbOPKsTmmfUTFtNzO8w",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "tw1AwASPi7jQA9nHaXlJHOV0L7ubdO0jMJkYPn80RIU",
+      useTemplateId: "CFpmI1jbVZGbEAnZiwBRsNIVZzDvW-M14pVTKyKvufM",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://www.xzw.com/fortune/Gemini/"
     }, 
     {
       name: "老婆1", 
       id: "oE5UL69BDF_BdUf0Lz3GkjbtLdIM",
-      useTemplateId: "tw1AwASPi7jQA9nHaXlJHOV0L7ubdO0jMJkYPn80RIU",
+      useTemplateId: "CFpmI1jbVZGbEAnZiwBRsNIVZzDvW-M14pVTKyKvufM",
       openUrl: "https://www.xzw.com/fortune/Gemini/"
     }, 
   ],
