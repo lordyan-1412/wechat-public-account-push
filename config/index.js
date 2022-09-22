@@ -67,9 +67,14 @@ export const config = {
   /** 天气相关 */
 
   // 所在省份
-  PROVINCE: "江苏",
+  PROVINCE: "云南",
   // 所在城市
-  CITY: "南京",
+  CITY: "昆明",
+  
+  // 所在省份
+  PROVINCE2: "贵州",
+  // 所在城市
+  CITY2: "遵义",
 
   /** 重要节日相关 */
 
@@ -102,6 +107,10 @@ export const config = {
     {"keyword": "love_day", date: "2022-07-12"},
     // 退伍日, 不用可以删掉
     {"keyword": "birthday1", date: "1998-06-02"},
+    // sakana日
+    {"keyword": "birthday2", date: "1998-05-23"},
+    // shengri
+    {"keyword": "birthday3", date: "1999-12-15"},
     // sakana日
     {"keyword": "birthday2", date: "1998-05-23"},
     // ... 
