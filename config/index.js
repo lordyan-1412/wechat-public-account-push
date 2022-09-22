@@ -83,9 +83,9 @@ export const config = {
   /** 天气相关 */
 
   // 所在省份
-  PROVINCE: "江苏",
+  PROVINCE: "云南",
   // 所在城市
-  CITY: "徐州",
+  CITY: "昆明",
   
   // 所在省份
   PROVINCE2: "贵州",
