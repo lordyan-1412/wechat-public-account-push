@@ -31,15 +31,15 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oE5UL64ClUbOPKsTmmfUTFtNzO8w",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "CFpmI1jbVZGbEAnZiwBRsNIVZzDvW-M14pVTKyKvufM",
+      useTemplateId: "oE5UL6z-U7Xl2YZWLbPVVuIfo3Bc",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://www.xzw.com/fortune/Gemini/"
     }, 
     {
-      name: "小潘", 
-      id: "oE5UL69BDF_BdUf0Lz3GkjbtLdIM",
-      useTemplateId: "CFpmI1jbVZGbEAnZiwBRsNIVZzDvW-M14pVTKyKvufM",
-      openUrl: "https://www.xzw.com/fortune/Gemini/"
+      name: "雪儿", 
+      id: "oE5UL6z-U7Xl2YZWLbPVVuIfo3Bc",
+      useTemplateId: "eEz6MfbBqrj0xF8KjDIZY7WLrIVSw_ZadjNSH-peIO0",
+      openUrl: "https://www.xzw.com/fortune/Sagittarius/"
     },  
   ],
 
@@ -67,9 +67,9 @@ export const config = {
   /** 天气相关 */
 
   // 所在省份
-  PROVINCE: "云南",
+  PROVINCE: "贵州",
   // 所在城市
-  CITY: "昆明",
+  CITY: "遵义",
   
   // 所在省份
 
@@ -82,8 +82,8 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "小潘", "year": "1998", "date": "06-02"},
-    {"type": "生日", "name": "夏洛克", "year": "1998", "date": "05-23"},
+    {"type": "生日", "name": "小潘", "year": "1998", "date": ""},
+    {"type": "生日", "name": "", "year": "1998", "date": "05-23"},
   ],
 
   /**
@@ -102,8 +102,7 @@ export const config = {
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
     {"keyword": "love_day", date: "2022-07-12"},
-    // 退伍日, 不用可以删掉
-    {"keyword": "birthday1", date: "1998-06-02"},
+    // 退伍日, 不用可以删
     // sakana日
     {"keyword": "birthday2", date: "1998-05-23"},
     // shengri
