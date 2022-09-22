@@ -36,10 +36,16 @@ export const config = {
       openUrl: "https://www.xzw.com/fortune/Gemini/"
     }, 
     {
-      name: "老婆1", 
+      name: "小潘", 
       id: "oE5UL69BDF_BdUf0Lz3GkjbtLdIM",
       useTemplateId: "CFpmI1jbVZGbEAnZiwBRsNIVZzDvW-M14pVTKyKvufM",
       openUrl: "https://www.xzw.com/fortune/Gemini/"
+    }, 
+    {
+      name: "雪儿", 
+      id: "oE5UL6z-U7Xl2YZWLbPVVuIfo3Bc",
+      useTemplateId: "39GODuMHgd8mDyOwyMte9zH5yoPcShIU0Rtu43HTkzQ",
+      openUrl: "https://www.xzw.com/fortune/Sagittarius/"
     }, 
   ],
 
@@ -67,9 +73,9 @@ export const config = {
   /** 天气相关 */
 
   // 所在省份
-  PROVINCE: "云南",
+  PROVINCE: "江苏",
   // 所在城市
-  CITY: "昆明",
+  CITY: "南京",
   
   // 所在省份
   PROVINCE2: "贵州",
@@ -111,8 +117,6 @@ export const config = {
     {"keyword": "birthday2", date: "1998-05-23"},
     // shengri
     {"keyword": "birthday3", date: "1999-12-15"},
-    // sakana日
-    {"keyword": "birthday2", date: "1998-05-23"},
     // ... 
   ],
 
