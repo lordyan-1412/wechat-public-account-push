@@ -75,7 +75,7 @@ export const config = {
   // 所在省份
   PROVINCE: "江苏",
   // 所在城市
-  CITY: "南京",
+  CITY: "徐州",
   
   // 所在省份
   PROVINCE2: "贵州",
